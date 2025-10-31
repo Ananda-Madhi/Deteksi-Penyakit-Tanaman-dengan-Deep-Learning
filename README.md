@@ -1,4 +1,4 @@
-🌿 Deteksi Penyakit Tanaman dengan Deep Learning
+Deteksi Penyakit Tanaman dengan Deep Learning
 
 Proyek ini adalah eksplorasi dan perbandingan model deep learning untuk klasifikasi gambar, dengan studi kasus mendeteksi 38 jenis penyakit tanaman yang berbeda dari citra daun.Tujuan utama dari repositori ini adalah untuk membandingkan performa dari beberapa arsitektur Convolutional Neural Network (CNN) modern yang populer (MobileNetV2, ResNet50, DenseNet121) menggunakan metode Transfer Learning dan Fine-Tuning.
 
